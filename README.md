@@ -1,5 +1,5 @@
 # get_next_line
-Mon projet get_next_line de l'école 42
+Get_next_line project for 42 school. This project consists in coding a line by line reading function.
 
 Description :
 
@@ -9,12 +9,12 @@ il est souvent nécessaire d'avoir recours à ce type de fonction.
 
 Objectifs :
 
-File descriptors 
-Bufferisation 
-Parsing basique 
+- File descriptors
+- Bufferisation
+- Parsing basique
 
 Skills :
 
-Algorithms & AI 
-Imperative programming 
-Rigor 
+- Algorithms & AI
+- Imperative programming
+- Rigor

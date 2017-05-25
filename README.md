@@ -18,3 +18,9 @@ Skills :
 - Algorithms & AI
 - Imperative programming
 - Rigor
+
+>###### Defini dans le header <get_next_line.h>
+
+------
+#### int	get_next_line(const int fd, char **line);
+------
